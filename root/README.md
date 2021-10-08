@@ -19,6 +19,31 @@ The **root** defines several *main sections*. These main sections allow for an e
 | media      | Images, Videos                                               |
 | software   | Computer Applications, Scripts, Source Code, ...             |
 
+## Tree structure
+
+├───archives
+│   ├───backups
+│   └───websites
+├───datasets
+├───documents
+│   ├───articles
+│   ├───conferences
+│   ├───grants
+│   └───presentations
+├───literature
+│   ├───articles
+│   ├───books
+│   └───manuals
+├───media
+│   ├───image
+│   │   ├───charts
+│   │   ├───photos
+│   │   └───screenshots
+│   └───video
+└───software
+    ├───applications
+    ├───scripts
+    └───source
 
 
 ## General Advice
