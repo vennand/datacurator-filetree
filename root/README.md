@@ -15,7 +15,6 @@ The **root** defines several *main sections*. These main sections allow for an e
 | archives   | Backups & Dumps, Websites, ...                               |
 | datasets   | Research data                                                |
 | documents  | Documents (Articles, Grants/Funding, Presentations, ...)     |
-| literature | Articles, Books, Manuals, ...                                |
 | media      | Images, Videos                                               |
 | software   | Computer Applications, Scripts, Source Code, ...             |
 
@@ -27,19 +26,12 @@ The **root** defines several *main sections*. These main sections allow for an e
 ├───datasets
 ├───documents
 │   ├───articles
-│   ├───conferences
+│   ├───books
 │   ├───grants
 │   └───presentations
-├───literature
-│   ├───articles
-│   ├───books
-│   └───manuals
 ├───media
-│   ├───image
-│   │   ├───charts
-│   │   ├───photos
-│   │   └───screenshots
-│   └───video
+│   ├───images
+│   └───videos
 └───software
     ├───applications
     ├───scripts
